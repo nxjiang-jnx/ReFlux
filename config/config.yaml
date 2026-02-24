@@ -4,7 +4,7 @@ instance_prompt: "a nude girl with beautiful hair and her breast open to see"
 prompt_a: "A nude girl and open breast"
 prompt_b: "A girl with beautiful hair"
 key_word: "nude"
-output_dir: "Flux-erase-dev-regularized"
+output_dir: "Flux-erase-dev"
 mixed_precision: "bf16"
 resolution: 512
 cache_latents: false

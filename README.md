@@ -17,7 +17,7 @@
 
 ## Overview
 
-ReFlux is a attack method for fine-tuning rectified flow based T2I diffusion models with focus on content safety and robustness evaluation. The project implements LoRA-based adaptation on Flux architecture with comprehensive evaluation methodologies for assessing model behavior under adversarial conditions.
+Official code for the CVPR 2026 findings paper. ReFlux is a attack method for light-weight fine-tuning rectified flow based T2I diffusion models with focus on content safety and robustness evaluation. The project implements LoRA-based probing on Flux, with comprehensive evaluation methodologies for assessing model behavior under adversarial conditions.
 
 ## Features
 

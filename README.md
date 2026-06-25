@@ -61,6 +61,8 @@ Official code for the CVPR 2026 findings paper. ReFlux is a attack method for li
 
 ## Quick Start
 
+[update]: Weights in `safetensors/` are the trained lora for ReFlux attack.
+
 1. **Train the adversarial checkpoint (LoRA):**
 
 ```bash
